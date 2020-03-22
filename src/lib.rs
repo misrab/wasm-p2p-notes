@@ -15,5 +15,5 @@ extern {
 
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, wasm-p2p-notes!");
+    alert("Hello, everybody!");
 }
